@@ -14,7 +14,7 @@ This is a connection URI for an AMQP-compatible message broker (usually RabbitMQ
 - **`localhost`**: This refers to the **host address** where the message broker is running. `localhost` means it's running on the same machine.
 - **`5672`**: This is the **port number** used by RabbitMQ (or any AMQP broker) to accept connections using the AMQP protocol.
 
-So, `guest:guest@localhost:5672` is a way of connecting to RabbitMQ using the default `guest` user over the default AMQP port on your local machine.
+So, `guest:guest@localhost:5672` is a way of connecting to RabbitMQ using the default `guest` user over the default AMQP port on our local machine.
 
 
 
